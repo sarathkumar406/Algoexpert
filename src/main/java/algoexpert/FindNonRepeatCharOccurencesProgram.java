@@ -3,7 +3,7 @@ package algoexpert;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Program {
+public class FindNonRepeatCharOccurencesProgram {
     public static void main(String[] args) {
         System.out.println (findNonRepeatCharOccurences ( "abcfdcaf" ));
 
