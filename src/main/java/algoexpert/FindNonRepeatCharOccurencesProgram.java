@@ -23,7 +23,7 @@ public class FindNonRepeatCharOccurencesProgram {
 
         return -1;
     }
-
+//nbhjbjb
     public static int findNonRepeatOccurences(String str){
         Map<Character, Integer> map = new LinkedHashMap<> ();
 
